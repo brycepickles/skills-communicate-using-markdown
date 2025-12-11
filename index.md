@@ -7,3 +7,7 @@ I added three different headers each with a different size
 ``` python
 print("Howdy")
 ```
+
+- [X] First task
+- [ ] Second task :(
+- [ ] Third task :)
